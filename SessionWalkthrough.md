@@ -8,12 +8,21 @@
 - Copy Footer Section and Personalize 
 
 ### Navbar
-  1. Comment
-     If you want to add comments in HTML you do so by adding your text in between ''' <! --''' and '''-->'''
-  3. Div
-  4. UL
-  5. Li A
-  6. Ending
+- Comment
+     If you want to add comments in HTML you do so by adding your text in between ``` <! --``` and ```-->```
+- Create Nav
+  ``` nav.navbar``` Click `tab`
+-  Div
+  For Divs you do not actually have to type the word div just do a dot and the name of the class you want to make so `.logo ` and `tab`
+
+- Create an unordered list (<ul>) to hold the navigation links. This will help organize them in a list format.
+  
+- For each link, create a <li> and inside it, an <a> tag. The <a> tag is for making hyperlinks, and the href attribute is where you point to (e.g., #about).
+  
+- Close your tags properly. Always remember to close each tag, such as </nav>, </ul>, 
+
+### Hero Section
+
 ### About Section
 
 ### Projects Section
@@ -22,8 +31,7 @@
 
 ### Contacts Session
 Already Done For You; Simply Edit the Information to Personalize
-
-'''
+```
 <!-- Contact Section -->
     <section id="contact" class="section">
         <h2>Contact Me</h2>
@@ -34,17 +42,17 @@ Already Done For You; Simply Edit the Information to Personalize
             <button type="submit" class="btn">Send Message</button>
         </form>
     </section>
-'''
+```
 
 ### Footer Section 
 Already Done For You ; Simply Edit the "Your Name" part :) 
 
-'''
+```
 <!-- Footer -->
     <footer>
         <p>&copy; 2025 [Your Name]. All rights reserved.</p>
     </footer>
 
     <script src="script.js"></script>
-'''
+```
 
