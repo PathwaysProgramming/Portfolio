@@ -15,11 +15,11 @@
 -  Div
   For Divs you do not actually have to type the word div just do a dot and the name of the class you want to make so `.logo ` and `tab`
 
-- Create an unordered list (<ul>) to hold the navigation links. This will help organize them in a list format.
+- Create an unordered list `<ul>` to hold the navigation links. This will help organize them in a list format.
   
-- For each link, create a <li> and inside it, an <a> tag. The <a> tag is for making hyperlinks, and the href attribute is where you point to (e.g., #about).
+- For each link, create a `<li>` and inside it, an `<a>` tag. The `<a>` tag is for making hyperlinks, and the href attribute is where you point to (e.g., #about).
   
-- Close your tags properly. Always remember to close each tag, such as </nav>, </ul>, 
+- Close your tags properly. Always remember to close each tag, such as `</nav>`, `</ul>`
 
 ### Hero Section
 
