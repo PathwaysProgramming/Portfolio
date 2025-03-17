@@ -12,3 +12,8 @@ document.getElementById("contact-form").addEventListener("submit", function (e) 
         alert("Please fill out all fields.");
     }
 });
+
+// currently any information gathered here does not go anywhere 
+// You could send this information to a .txt file but that requires PHP server code 
+// A template of that code is found can be found online if you are curious 
+// Note that PHP is another language 
